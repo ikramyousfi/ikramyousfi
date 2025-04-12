@@ -21,11 +21,11 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
   <img src="https://streak-stats.demolab.com?user=Ikramyousfi&theme=nightowl&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikramyousfi&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="200px" style="margin-right: 289px;"/>
- 
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikramyousfi&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikramyousfi&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="200px" />
 </p>
+
 ---
 
 *Note: The top languages are based on the percentage of code written in each language and may not reflect the full range of my expertise.*
