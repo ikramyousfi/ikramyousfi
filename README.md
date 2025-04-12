@@ -18,21 +18,23 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
 
 ## 📊 My GitHub Stats and Contributions
 
-<!-- Centering the GitHub Streak -->
+<!-- GitHub Streak with Title -->
+<h3 align="center">GitHub Streak</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikramyousfi&hide_border=true&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<!-- Add Titles for the Images and Display Them Side by Side with Same Height and Width -->
+<!-- GitHub Stats with Title -->
 <h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" alt="Ikram Yousfi's GitHub Stats" width="48%" height="200" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" alt="Ikram Yousfi's GitHub Stats" width="48%" />
+</p>
 
+<!-- Top Languages with Title -->
 <h3 align="center">Top Languages</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact" alt="Top Languages" width="48%" height="200" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
