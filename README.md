@@ -1,9 +1,7 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" width="100px" style="margin-right: 15px;">
-  <h1 style="margin: 0;">Hi, I'm Yousfi Ikram Oumelkheir 👋</h1>
-</div>
-
-
+<h1 style="margin: 0; display: inline-flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" width="100px" style="margin-right: 15px; vertical-align: middle;">
+  Hi, I'm Yousfi Ikram Oumelkheir 👋
+</h1>
 
 A Software Developer passionate about Artificial Intelligence and Data Science.
 
