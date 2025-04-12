@@ -8,10 +8,7 @@ A Software Developer passionate about Artificial Intelligence and Data Science.
 - 👯 I’m looking to collaborate on AI and Data Science projects.
 - 📫 How to reach me: [yousfikram19@gmail.com](mailto:yousfikram19@gmail.com)
 
-## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter)
-- [Portfolio](https://your-portfolio.com)
+
 
 ## 🚀 Languages and Tools:
 Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL, HTML, CSS, JavaScript
