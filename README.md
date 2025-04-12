@@ -3,8 +3,8 @@
   Hi, I'm Yousfi Ikram Oumelkheir 👋
 </h1>
 
-
-A Software Developer passionate about Artificial Intelligence and Data Science.
+<h3 align="center">A Software Developer passionate about Artificial Intelligence and Data Science.
+</h3>
 
 
 
@@ -21,7 +21,7 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
 ## 📊 My GitHub Stats and Contributions
 
 <!-- GitHub Streak with Title -->
-<h3 align="center"></h3>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ikramyousfi&theme=nightowl&hide_border=true"/>
 </p>
