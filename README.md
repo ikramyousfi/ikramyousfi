@@ -8,7 +8,7 @@ A Software Developer passionate about Artificial Intelligence and Data Science.
 
 ## 📈 GitHub Stats
 
-![ikramyousfi](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Ikram Yousfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
 
 ## 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [Twitter](https://twitter.com/your-twitter) | [Portfolio](https://your-portfolio.com)
