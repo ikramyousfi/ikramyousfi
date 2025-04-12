@@ -1,12 +1,10 @@
 # Hi, I'm Yousfi Ikram Oumelkheir! 👋
 
-I'm a passionate software developer with experience in Python, machine learning, and web technologies.
+A Software Developer passionate about Artificial Intelligence and Data Science.
 
-- 🔭 I’m currently working on [Project Name].
-- 🌱 I’m learning more about AI and machine learning algorithms.
-- 💬 Ask me about Python, AI, or software development.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: I love learning new things and collaborating on open-source projects!
+🔭 I’m currently developing software applications that integrate machine learning technologies.
+- 🌱 I’m exploring advanced AI concepts and applying natural language processing (NLP) techniques to real-world projects.
+- 📫 How to reach me: [yousfikram19@gmail.com](mailto:your-email@example.com)
 
 ## 📈 GitHub Stats
 
