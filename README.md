@@ -14,9 +14,7 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
 
 ## 📊 My GitHub Stats
 
-![Ikram Yousfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact)
+![Ikram Yousfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact)
 
 *Note: The top languages are based on the percentage of code written in each language and may not reflect the full range of my expertise.*
 
