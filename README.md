@@ -1,5 +1,5 @@
 <h1 style="margin: 0; display: inline-flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" width="100px" style="margin-right: 15px; vertical-align: sub;">
+  <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" width="100px" style="margin-right: 15px; vertical-align: bottom;">
   Hi, I'm Yousfi Ikram Oumelkheir 👋
 </h1>
 
