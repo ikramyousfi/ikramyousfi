@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" width="100px" style="margin-right: 40px; vertical-align: middle;">
-  <h1 style="margin: 0;">Hi, I'm Yousfi Ikram Oumelkheir</h1>
+  <h1 style="margin: 0; display: inline;">Hi, I'm Yousfi Ikram Oumelkheir</h1>
 </div>
 
 
