@@ -23,11 +23,17 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikramyousfi&hide_border=true&theme=radical" alt="GitHub Streak"/>
 </p>
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" alt="Ikram Yousfi's GitHub Stats"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact" alt="Top Languages"/>
-
+<!-- Displaying GitHub Stats and Top Languages side by side -->
+<p >
+  <div style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" alt="Ikram Yousfi's GitHub Stats"/>
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact" alt="Top Languages"/>
+  </div>
+</p>
 
 ---
 
 *Note: The top languages are based on the percentage of code written in each language and may not reflect the full range of my expertise.*
+
