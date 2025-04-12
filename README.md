@@ -8,13 +8,40 @@ A Software Developer passionate about Artificial Intelligence and Data Science.
 - 👯 I’m looking to collaborate on AI and Data Science projects.
 - 📫 How to reach me: [yousfikram19@gmail.com](mailto:yousfikram19@gmail.com)
 
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter)
+- [Portfolio](https://your-portfolio.com)
 
 ## 🚀 Languages and Tools:
 Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL, HTML, CSS, JavaScript
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats and Contributions
 
-![Ikram Yousfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact)
+### GitHub Stats
+
+![Ikram Yousfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact)
+
+### GitHub Streak & Longest Streak
+
+#### Current Streak:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikramyousfi&hide_border=true&theme=radical)
+
+#### Longest Streak:
+
+![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikramyousfi&hide_border=true&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=true)
+
+---
+
+### 📅 Total Contributions:
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical&include_all_commits=true)
+
+---
 
 *Note: The top languages are based on the percentage of code written in each language and may not reflect the full range of my expertise.*
-
