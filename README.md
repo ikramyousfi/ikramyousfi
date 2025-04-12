@@ -7,8 +7,6 @@ A Software Developer passionate about Artificial Intelligence and Data Science.
 
 
 
-A Software Developer passionate about Artificial Intelligence and Data Science.
-
 🙋‍♀️ **About Me**
 - 🔭 I’m currently developing software applications that integrate machine learning technologies.
 - 🌱 I’m exploring advanced AI concepts and applying natural language processing (NLP) techniques to real-world projects.
