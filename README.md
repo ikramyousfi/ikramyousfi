@@ -23,13 +23,10 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikramyousfi&hide_border=true&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" alt="Ikram Yousfi's GitHub Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact" alt="Top Languages"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" alt="Ikram Yousfi's GitHub Stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical&layout=compact" alt="Top Languages"/>
+
 
 ---
 
