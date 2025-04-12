@@ -5,7 +5,6 @@ A Software Developer passionate about Artificial Intelligence and Data Science.
 🙋‍♀️ **About Me**
 - 🔭 I’m currently developing software applications that integrate machine learning technologies.
 - 🌱 I’m exploring advanced AI concepts and applying natural language processing (NLP) techniques to real-world projects.
-- 👯 I’m looking to collaborate on AI and Data Science projects.
 - 📫 How to reach me: [yousfikram19@gmail.com](mailto:yousfikram19@gmail.com)
 
 
