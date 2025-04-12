@@ -1,4 +1,4 @@
-# Hi, I'm Yousfi Ikram Oumelkheir 👋 ![malogo](https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12)
+# Hi, I'm Yousfi Ikram Oumelkheir 👋 
 
 
 A Software Developer passionate about Artificial Intelligence and Data Science.
@@ -28,4 +28,4 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
 
 ---
 
-*Note: The top languages are based on the percentage of code written in each language and may not reflect the full range of my expertise.*
+![malogo](https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12)
