@@ -21,7 +21,7 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
 <!-- GitHub Streak with Title -->
 <h3 align="center">GitHub Streak</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ikramyousfi&theme=radical&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=Ikramyousfi&theme=nightowl&hide_border=true"/>
 </p>
 
 ![Ikram Yousfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ikramyousfi&theme=radical&show_icons=true&hide_border=true&count_private=true)
