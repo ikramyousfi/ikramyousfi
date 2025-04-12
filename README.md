@@ -1,4 +1,10 @@
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" width="100px" style="float: left; margin-right: 15px;">
+</p>
+
 # Hi, I'm Yousfi Ikram Oumelkheir 👋 
+A Software Developer passionate about Artificial Intelligence and Data Science.
+
 
 
 A Software Developer passionate about Artificial Intelligence and Data Science.
@@ -28,4 +34,3 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
 
 ---
 
-![malogo](https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12)
