@@ -18,18 +18,8 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
 
 ## 📊 My GitHub Stats
 
-<!-- GitHub Stats and Top Languages side by side -->
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-  <div style="flex: 1; padding-right: 10px;">
-    ![Ikram Yousfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
-  </div>
-
-  <div style="flex: 1; padding-left: 10px;">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical)
-  </div>
-
-</div>
+| **GitHub Stats** | **Top Languages** |
+|------------------|------------------|
+| ![Ikram Yousfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramyousfi&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramyousfi&langs_count=10&hide_title=true&count_private=true&hide_border=true&theme=radical) |
 
 *Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
