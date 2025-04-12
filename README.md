@@ -22,7 +22,7 @@ Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikramyousfi&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="200px" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikramyousfi&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="200px" style="margin-right: 289px;"/>
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikramyousfi&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="200px" />
 </p>
