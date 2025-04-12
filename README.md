@@ -10,7 +10,7 @@ I'm a passionate software developer with experience in Python, machine learning,
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![ikramyousfi](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [Twitter](https://twitter.com/your-twitter) | [Portfolio](https://your-portfolio.com)
