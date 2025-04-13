@@ -2,7 +2,7 @@
     <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" 
          alt="My Logo" 
          style="width: 100px; height: auto;">
-    <span style="font-size: 24px; font-weight: bold;">Hi, I'm Yousfi Ikram Oumelkheir</span>
+    <span style="font-size: 24px; font-weight: 700; line-height: 1.2;">Hi, I'm Yousfi Ikram Oumelkheir</span>
 </div>
 
 
