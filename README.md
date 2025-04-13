@@ -1,10 +1,10 @@
-<div style="display: table; width: 100%; text-align: center; gap: 10px;">
-        <div style="display: table-cell; vertical-align: middle;">
-            <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" style="width: 100px; height: auto;"/>
-        </div>
-        <h1> <center>
-            Hi, I'm Yousfi Ikram Oumelkheir </center>
-        </h1>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" 
+         alt="My Logo" 
+         style="width: 100px; height: auto; display: block; margin: 0 auto;">
+    <h1 style="font-size: 36px; font-weight: bold; margin-top: 10px;">
+        Hi, I'm Yousfi Ikram Oumelkheir
+    </h1>
 </div>
 
 
