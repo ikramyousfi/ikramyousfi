@@ -1,8 +1,8 @@
 <div style="display: table-row; ">
     <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" style="width: 100px; height: auto; display:table-cell;"/>
-    <h1 style="display: table-cell;">
+    <span style="font-weight: bold; display: table-cell;">
         Hi, I'm Yousfi Ikram Oumelkheir
-    </h1>
+    </span>
 </div>
 
 
