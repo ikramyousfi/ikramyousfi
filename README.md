@@ -1,9 +1,9 @@
 
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" width="100px" style="margin-right: 20px;">
-    <center> <h1>Hi, I'm Yousfi Ikram Oumelkheir</h1></center>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" style="width: 100px; height: auto; margin-right: 10px;">
+    <h1 style="margin: 0; font-size: 24px; font-weight: bold; display: inline;">Hi, I'm Yousfi Ikram Oumelkheir</h1>
 </div>
+
 
 
 
