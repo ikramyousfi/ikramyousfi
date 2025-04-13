@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: center; ">
-    <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" style="width: 100px; height: auto;">
-    <div style="font-size: 2.5em; font-weight: bold; line-height: 1; margin: 0; display: inline;">
+<div style="display: table-row; ">
+    <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" style="width: 100px; height: auto; display:table-cell;"/>
+    <span style="font-size: 2.5em; font-weight: bold; line-height: 1; margin: 0; display: table-cell;">
         Hi, I'm Yousfi Ikram Oumelkheir
-    </div>
+    </span>
 </div>
 
 
