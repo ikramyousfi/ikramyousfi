@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" style="width: 100px; height: auto; border-radius: 50%;">
-    <h1 style="margin: 0; font-size: 24px; font-weight: bold; white-space: nowrap;">Hi, I'm Yousfi Ikram Oumelkheir</h1>
+    <center style="margin: 0; font-size: 24px; font-weight: bold; white-space: nowrap;">Hi, I'm Yousfi Ikram Oumelkheir</center>
 </div>
 
 
