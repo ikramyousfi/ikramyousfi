@@ -19,7 +19,7 @@
 
 
 ## 🚀 Languages and Tools:
-Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL, HTML, CSS, JavaScript
+Python, TensorFlow, Keras, PyTorch, NLTK, Scikit-learn, Git, Flask, Django, SQL, HTML, CSS, JavaScript, Java.
 
 ## 📊 My GitHub Stats and Contributions
 
