@@ -1,8 +1,12 @@
 
 <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" alt="My Logo" width="100px" style="margin-right: 20px;">
 
-<h1 align="center">Hi, I'm Yousfi Ikram Oumelkheir
-</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/25889e9f-3860-4da2-88c6-a8a7195fc56f" alt="Profile Picture" style="width: 100px; height: 100px; border-radius: 50%;">
+    <h1>Hi, I'm Yousfi Ikram Oumelkheir</h1>
+</div>
+
+
 
 <h3 align="center">A Software Developer passionate about Artificial Intelligence and Data Science.
 </h3>
