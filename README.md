@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" >
+<div style="display: flex; align-items: center; ">
+    <img src="https://github.com/user-attachments/assets/41b76862-e634-4df8-8675-2690bbd17d12" style="width: 100px; height: auto;">
     <div style="font-size: 2.5em; font-weight: bold; line-height: 1; margin: 0; display: inline;">
         Hi, I'm Yousfi Ikram Oumelkheir
     </div>
