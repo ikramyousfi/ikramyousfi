@@ -32,9 +32,8 @@
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ikramyousfi&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="200px" width="460px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikramyousfi&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/ username=Ikramyousfi&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact height="200px" />
 </p>
-
 
 
 
@@ -43,9 +42,5 @@
 [![](https://visitcount.itsvg.in/api?id=ikramyousfi&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
