@@ -27,7 +27,7 @@
 <!-- GitHub Streak with Title -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ikramyousfi&theme=nightowl&hide_border=true"/>
+  <img src="<https://streak-stats.demolab.com?user=Ikramyousfi&theme=nightowl&hide_border=true>"/>
 </p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
